@@ -1,3 +1,9 @@
+## Submission  
+
+## Binder: (https://mybinder.org/v2/gh/waleedbutt98/Q3_CS2AI.git/HEAD)
+
+## Colab: (https://colab.research.google.com/github/waleedbutt98/Q3_CS2AI/blob/master/Q3.ipynb)
+
 from matplotlib import pyplot as plt
 import numpy as np
 import numpy.matlib as mb
